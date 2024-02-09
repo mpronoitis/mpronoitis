@@ -3,7 +3,8 @@
 👨🏻‍💻 About Me
 I am a BSc Graduate at Department of Informatics Engineering in Hellenic Mediterranean University. I am a hard worker, very eager to learn new things and expand my capabilities every day. Interested in Backend Development and DevOps.
 
-- 🔭 I’m currently working on Deloitte as a Cloud Integration Developer!
+🔭 I’m currently working on Deloitte as a Cloud Integration Developer!
+
 🛠 Tech Stack
 💻 Programming Languages
 Python
