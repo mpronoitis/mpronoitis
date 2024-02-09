@@ -26,4 +26,4 @@ I am a BSc Graduate at Department of Informatics Engineering in Hellenic Mediter
 - CloudHub
 - AWS
 ## 📫 How to reach me
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/giorgos-pronoitis-059863225/)
