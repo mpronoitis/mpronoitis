@@ -5,25 +5,25 @@ I am a BSc Graduate at Department of Informatics Engineering in Hellenic Mediter
 
 🔭 I’m currently working on Deloitte as a Cloud Integration Developer!
 
-🛠 Tech Stack
-💻 Programming Languages
-Python
-C#
-TypeScript
-🌐 Frontend
-Angular
-🛢 Database
-MongoDB
-MySQL
-Microsoft SQL Server
-🔧 Tools
-Anypoint Studio
-Visual Studio Code
-Git
-Docker
-GitHub
-Postman
-CloudHub
-AWS
-📫 How to reach me
+## 🛠 Tech Stack
+### 💻 Programming Languages
+- Python
+- C#
+- TypeScript
+### 🌐 Frontend
+- Angular
+### 🛢 Database
+- MongoDB
+- MySQL
+- Microsoft SQL Server
+### 🔧 Tools
+- Anypoint Studio
+- Visual Studio Code
+- Git
+- Docker
+- GitHub
+- Postman
+- CloudHub
+- AWS
+## 📫 How to reach me
 LinkedIn
