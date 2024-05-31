@@ -7,9 +7,9 @@ I am a BSc Graduate at Department of Informatics Engineering in Hellenic Mediter
 
 ## 🛠 Tech Stack
 ### 💻 Programming Languages
-- Python
-- C#
-- TypeScript
+- Java
+### Backend
+- Spring Boot
 ### 🌐 Frontend
 - Angular
 ### 🛢 Database
